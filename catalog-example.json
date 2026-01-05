@@ -1,0 +1,66 @@
+{
+  "version": "1.0.0",
+  "updated": "2024-01-01",
+  "apps": [
+    {
+      "id": "1",
+      "name": "Flujo TV",
+      "packageName": "com.flujotv.app",
+      "versionName": "2.5.0",
+      "versionCode": 250,
+      "apkUrl": "https://tu-servidor.com/apks/flujotv_2.5.0.apk",
+      "iconUrl": "https://tu-servidor.com/icons/flujotv.png",
+      "description": "Aplicación de streaming para TV",
+      "size": "25 MB",
+      "category": "Entretenimiento"
+    },
+    {
+      "id": "2",
+      "name": "Turbo Cleaner",
+      "packageName": "com.turbocleaner.app",
+      "versionName": "1.8.0",
+      "versionCode": 180,
+      "apkUrl": "https://tu-servidor.com/apks/turbocleaner_1.8.0.apk",
+      "iconUrl": "https://tu-servidor.com/icons/turbocleaner.png",
+      "description": "Limpiador y optimizador para Android TV",
+      "size": "12 MB",
+      "category": "Herramientas"
+    },
+    {
+      "id": "3",
+      "name": "Kids Zone",
+      "packageName": "com.kidszone.tv",
+      "versionName": "3.2.1",
+      "versionCode": 321,
+      "apkUrl": "https://tu-servidor.com/apks/kidszone_3.2.1.apk",
+      "iconUrl": "https://tu-servidor.com/icons/kidszone.png",
+      "description": "Contenido seguro para niños",
+      "size": "18 MB",
+      "category": "Infantil"
+    },
+    {
+      "id": "4",
+      "name": "Pro MP3 Player",
+      "packageName": "com.promp3.player",
+      "versionName": "4.0.0",
+      "versionCode": 400,
+      "apkUrl": "https://tu-servidor.com/apks/promp3_4.0.0.apk",
+      "iconUrl": "https://tu-servidor.com/icons/promp3.png",
+      "description": "Reproductor de música profesional",
+      "size": "8 MB",
+      "category": "Música"
+    },
+    {
+      "id": "5",
+      "name": "APK Updater",
+      "packageName": "com.apkupdater.tv",
+      "versionName": "1.5.0",
+      "versionCode": 150,
+      "apkUrl": "https://tu-servidor.com/apks/apkupdater_1.5.0.apk",
+      "iconUrl": "https://tu-servidor.com/icons/apkupdater.png",
+      "description": "Actualizador de aplicaciones",
+      "size": "6 MB",
+      "category": "Herramientas"
+    }
+  ]
+}
