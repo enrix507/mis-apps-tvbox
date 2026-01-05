@@ -1,0 +1,66 @@
+{
+  "version": "1.0.0",
+  "updated": "2026-01-05",
+  "apps": [
+    {
+      "id": "1",
+      "name": "VLC Media Player",
+      "packageName": "org.videolan.vlc",
+      "versionName": "3.6.0",
+      "versionCode": 13060400,
+      "apkUrl": "https://github.com/videolan/vlc-android/releases/download/3.6.0/VLC-Android-3.6.0-arm64-v8a.apk",
+      "iconUrl": "https://raw.githubusercontent.com/enrix5077/mis-apps-tvbox/main/icons/vlc.webp",
+      "description": "Reproductor multimedia universal - Soporta todos los formatos",
+      "size": "42 MB",
+      "category": "Multimedia"
+    },
+    {
+      "id": "2",
+      "name": "F-Droid",
+      "packageName": "org.fdroid.fdroid",
+      "versionName": "1.19.0",
+      "versionCode": 1019050,
+      "apkUrl": "https://f-droid.org/F-Droid.apk",
+      "iconUrl": "https://raw.githubusercontent.com/enrix5077/mis-apps-tvbox/main/icons/fdroid.webp",
+      "description": "Tienda de aplicaciones de código abierto",
+      "size": "12 MB",
+      "category": "Herramientas"
+    },
+    {
+      "id": "3",
+      "name": "NewPipe",
+      "packageName": "org.schabi.newpipe",
+      "versionName": "0.26.1",
+      "versionCode": 1001,
+      "apkUrl": "https://github.com/TeamNewPipe/NewPipe/releases/download/v0.26.1/NewPipe_v0.26.1.apk",
+      "iconUrl": "https://raw.githubusercontent.com/enrix5077/mis-apps-tvbox/main/icons/newpipe.webp",
+      "description": "Cliente de YouTube ligero sin anuncios",
+      "size": "8 MB",
+      "category": "Entretenimiento"
+    },
+    {
+      "id": "4",
+      "name": "Kodi",
+      "packageName": "org.xbmc.kodi",
+      "versionName": "21.0",
+      "versionCode": 2100000,
+      "apkUrl": "https://mirrors.kodi.tv/releases/android/arm64-v8a/kodi-21.0-Omega-arm64-v8a.apk",
+      "iconUrl": "https://raw.githubusercontent.com/enrix5077/mis-apps-tvbox/main/icons/kodi.webp",
+      "description": "Centro multimedia completo para TV",
+      "size": "85 MB",
+      "category": "Multimedia"
+    },
+    {
+      "id": "5",
+      "name": "Firefox",
+      "packageName": "org.mozilla.firefox",
+      "versionName": "122.0",
+      "versionCode": 122000,
+      "apkUrl": "https://github.com/mozilla-mobile/firefox-android/releases/download/fenix-v122.0/fenix-122.0-arm64-v8a.apk",
+      "iconUrl": "https://raw.githubusercontent.com/enrix5077/mis-apps-tvbox/main/icons/firefox.webp",
+      "description": "Navegador web rápido y privado",
+      "size": "95 MB",
+      "category": "Herramientas"
+    }
+  ]
+}
