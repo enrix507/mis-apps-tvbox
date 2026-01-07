@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated": "2026-01-05",
+  "updated": "2026-01-06",
   "apps": [
     {
       "id": "1",
@@ -8,10 +8,10 @@
       "packageName": "com.animxl",
       "versionName": "1.0",
       "versionCode": 1,
-      "apkUrl": "https://github.com/enrix5077/mis-apps-tvbox/releases/download/v1.0/animel-box.apk",
+      "apkUrl": "https://github.com/enrix5077/mis-apps-tvbox/releases/download/v1.0/animxl-box.apk",
       "iconUrl": "https://github.com/enrix5077/mis-apps-tvbox/blob/main/logo.png?raw=true",
       "description": "Anime",
-      "size": "32 MB",
+      "size": "31.7 MB",
       "category": "Entretenimiento"
     },
     {
@@ -23,7 +23,7 @@
       "apkUrl": "https://github.com/enrix5077/mis-apps-tvbox/releases/download/v1.0/flujo_tv_v7.11.1.apk",
       "iconUrl": "https://github.com/enrix5077/mis-apps-tvbox/blob/main/1764695978332-flujotv.webp?raw=true",
       "description": "IPTV",
-      "size": "56 KB",
+      "size": "55.5 MB",
       "category": "TV"
     },
     {
@@ -32,10 +32,10 @@
       "packageName": "com.mxlmovies",
       "versionName": "1.0",
       "versionCode": 1,
-      "apkUrl": "https://github.com/enrix5077/mis-apps-tvbox/releases/download/v1.0/movies-mogms-tvbox.apk",
+      "apkUrl": "https://github.com/enrix5077/mis-apps-tvbox/releases/download/v1.0/movies-nogms-tvbox.apk",
       "iconUrl": "https://github.com/enrix5077/mis-apps-tvbox/blob/main/c07bdee6b6911c054632bef6b4d4108e.webp?raw=true",
       "description": "Peliculas",
-      "size": "40 MB",
+      "size": "40.3 MB",
       "category": "Entretenimiento"
     },
     {
@@ -47,7 +47,7 @@
       "apkUrl": "https://github.com/enrix5077/mis-apps-tvbox/releases/download/v1.0/tv-box.apk",
       "iconUrl": "https://github.com/enrix5077/mis-apps-tvbox/blob/main/ErS4wW3XMAEppZp.webp?raw=true",
       "description": "IPTV",
-      "size": "36 MB",
+      "size": "35.6 MB",
       "category": "TV"
     },
     {
@@ -59,7 +59,7 @@
       "apkUrl": "https://github.com/enrix5077/mis-apps-tvbox/releases/download/v1.0/XPR_official.apk",
       "iconUrl": "https://github.com/enrix5077/mis-apps-tvbox/blob/main/images%20(1).jpg?raw=true",
       "description": "IPTV",
-      "size": "31 MB",
+      "size": "30.9 MB",
       "category": "TV"
     }
   ]
