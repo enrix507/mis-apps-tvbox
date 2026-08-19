@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "updated": "2026-08-18",
+  "updated": "2026-08-19",
   "apps": [
     {
       "id": "1",
@@ -109,6 +109,30 @@
       "description": "Reproduce videos de tu USB y de la red",
       "size": "44.9 MB",
       "category": "Video"
+    },
+    {
+      "id": "10",
+      "name": "Kodi",
+      "packageName": "org.xbmc.kodi",
+      "versionName": "21.3",
+      "versionCode": 2103000,
+      "apkUrl": "https://github.com/enrix507/mis-apps-tvbox/releases/download/v1.0/org.xbmc.kodi-2103000.apk",
+      "iconUrl": "https://raw.githubusercontent.com/enrix507/mis-apps-tvbox/main/iconos/org.xbmc.kodi.png?v=acaa04ae",
+      "description": "Centro multimedia: peliculas, musica y fotos del USB o de la red",
+      "size": "64.7 MB",
+      "category": "Video"
+    },
+    {
+      "id": "11",
+      "name": "Navegador",
+      "packageName": "com.phlox.tvwebbrowser",
+      "versionName": "2.1.6",
+      "versionCode": 69,
+      "apkUrl": "https://github.com/enrix507/mis-apps-tvbox/releases/download/v1.0/com.phlox.tvwebbrowser-69.apk",
+      "iconUrl": "https://raw.githubusercontent.com/enrix507/mis-apps-tvbox/main/iconos/com.phlox.tvwebbrowser.png?v=7019bfc9",
+      "description": "Navega por internet en la TV con el control remoto",
+      "size": "6.5 MB",
+      "category": "Sistema"
     }
   ]
 }
