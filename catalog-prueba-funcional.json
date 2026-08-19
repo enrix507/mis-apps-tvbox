@@ -97,6 +97,18 @@
       "description": "Consolas clasicas: Nintendo, Sega y mas",
       "size": "16.5 MB",
       "category": "Juegos"
+    },
+    {
+      "id": "9",
+      "name": "VLC",
+      "packageName": "org.videolan.vlc",
+      "versionName": "3.7.1",
+      "versionCode": 13070105,
+      "apkUrl": "https://github.com/enrix507/mis-apps-tvbox/releases/download/v1.0/org.videolan.vlc-13070105.apk",
+      "iconUrl": "https://github.com/enrix507/mis-apps-tvbox/blob/main/logo.png?raw=true",
+      "description": "Reproduce videos de tu USB y de la red",
+      "size": "44.9 MB",
+      "category": "Video"
     }
   ]
 }
