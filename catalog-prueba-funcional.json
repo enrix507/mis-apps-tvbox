@@ -111,18 +111,6 @@
       "category": "Video"
     },
     {
-      "id": "10",
-      "name": "Kodi",
-      "packageName": "org.xbmc.kodi",
-      "versionName": "21.3",
-      "versionCode": 2103000,
-      "apkUrl": "https://github.com/enrix507/mis-apps-tvbox/releases/download/v1.0/org.xbmc.kodi-2103000.apk",
-      "iconUrl": "https://raw.githubusercontent.com/enrix507/mis-apps-tvbox/main/iconos/org.xbmc.kodi.png?v=acaa04ae",
-      "description": "Centro multimedia: peliculas, musica y fotos del USB o de la red",
-      "size": "64.7 MB",
-      "category": "Video"
-    },
-    {
       "id": "11",
       "name": "Navegador",
       "packageName": "com.phlox.tvwebbrowser",
