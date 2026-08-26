@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "updated": "2026-08-19",
+  "updated": "2026-08-26",
   "apps": [
     {
       "id": "1",
@@ -66,21 +66,21 @@
       "id": "6",
       "name": "Musica",
       "packageName": "com.enri.spotifytv",
-      "versionName": "1.1.0",
-      "versionCode": 2,
-      "apkUrl": "https://github.com/enrix507/mis-apps-tvbox/releases/download/v1.0/com.enri.spotifytv-2.apk",
+      "versionName": "1.2.0",
+      "versionCode": 3,
+      "apkUrl": "https://github.com/enrix507/mis-apps-tvbox/releases/download/v1.0/com.enri.spotifytv-3.apk",
       "iconUrl": "https://raw.githubusercontent.com/enrix507/mis-apps-tvbox/main/iconos/com.enri.spotifytv.png?v=590e81ab",
       "description": "Escucha musica y podcasts",
-      "size": "2.7 MB",
+      "size": "2.9 MB",
       "category": "Musica"
     },
     {
       "id": "7",
       "name": "Videos",
       "packageName": "com.enri.freetubetv",
-      "versionName": "0.3.0",
-      "versionCode": 3,
-      "apkUrl": "https://github.com/enrix507/mis-apps-tvbox/releases/download/v1.0/com.enri.freetubetv-3.apk",
+      "versionName": "0.7.4",
+      "versionCode": 13,
+      "apkUrl": "https://github.com/enrix507/mis-apps-tvbox/releases/download/v1.0/com.enri.freetubetv-13.apk",
       "iconUrl": "https://raw.githubusercontent.com/enrix507/mis-apps-tvbox/main/iconos/com.enri.freetubetv.png?v=51b4c357",
       "description": "Videos de YouTube sin anuncios",
       "size": "2.5 MB",
